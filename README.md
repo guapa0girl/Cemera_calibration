@@ -46,4 +46,4 @@
 
 ## 5. Recording Video
 
-<video src="./corrected_video.mp4" controls width="100%"></video>
+<video src="corrected_video.mp4" controls width="100%"></video>

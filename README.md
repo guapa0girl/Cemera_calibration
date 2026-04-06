@@ -43,7 +43,3 @@
 1. `camera_calibration.py`를 실행하여 다양한 각도에서 체스판을 15장 이상 캡처합니다.
 2. 생성된 `calibration_data.npz` 파일을 확인합니다.
 3. `distortion_correction.py`를 실행하여 보정된 실시간 영상을 확인하고 녹화합니다.
-
-## 5. Recording Video
-
-<video src="corrected_video.mp4" controls width="100%"></video>

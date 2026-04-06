@@ -34,9 +34,9 @@
 
 ### Distortion Correction Side-by-Side
 
-|      Original Video       |      Undistorted Video      |
-| :-----------------------: | :-------------------------: |
-| ![Original](./before.png) | ![Undistorted](./after.png) |
+|       Original Video        |         Undistorted Video         |
+| :-------------------------: | :-------------------------------: |
+| ![Original](./original.png) | ![Undistorted](./undistorted.png) |
 
 ## 4. How to Run
 

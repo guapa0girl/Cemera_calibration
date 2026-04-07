@@ -40,7 +40,7 @@
 
 |         Original Checkerboard         |        Undistorted Checkerboard         |
 | :-----------------------------------: | :-------------------------------------: |
-| ![Original Center](./before_crop.png) | ![Undistorted Center](./after_crop.png) |
+| ![Original Center](./before.png) | ![Undistorted Center](./after.png) |
 
 ---
 

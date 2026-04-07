@@ -1,7 +1,3 @@
-# CrystalLens-Corrector
-
-> **Description**: A Python-based tool for camera intrinsic calibration and real-time lens distortion correction using OpenCV.
-
 ## 1. Project Overview
 
 이 프로젝트는 카메라의 고유 파라미터를 추출하는 **Camera Calibration**과, 이를 바탕으로 렌즈의 기하학적 왜곡을 해결하는 **Distortion Correction** 과정으로 구성됩니다. 특히 광각 렌즈에서 발생하는 배럴 왜곡(Barrel Distortion)을 효과적으로 보정합니다.

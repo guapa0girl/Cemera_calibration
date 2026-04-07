@@ -1,8 +1,4 @@
-# Camera_calibration (Let's flatten the chessboard!)
-
-> **Description**: OpenCV 기반으로 촬영된 체스 보드판을 실시간으로 평평하게 만들기
-
-## 1. Project Overview (프로젝트 개요)
+## 1. Project Overview
 
 이 프로젝트는 카메라의 고유 파라미터를 추출하는 **Camera Calibration(카메라 캘리브레이션)**과, 이를 바탕으로 렌즈의 기하학적 왜곡을 해결하는 **Distortion Correction(왜곡 보정)** 과정으로 구성됩니다. 특히 육안으로 식별하기 어려운 미세한 렌즈 왜곡이 알고리즘을 통해 어떻게 정밀하게 보정되는지 분석합니다.
 
